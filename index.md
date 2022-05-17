@@ -1,4 +1,4 @@
-## Skylands v0.1 BETA (coming soon)
+## Skylands v0.1 (coming soon)
 
 You can use the [editor on GitHub](https://github.com/RezendBot/Skylands/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
